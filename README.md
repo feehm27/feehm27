@@ -1,10 +1,10 @@
 ### Hi 👋 My name is Fernanda. Welcome to my profile.
 
 <p align="left">
-  <a href="#" title="LinkedIn">
+  <a href="www.linkedin.com/in/feehm27" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/feehm27" alt="LinkedIn"/></a>
 
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/feehm27" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/feehm27/ alt="Instagram"/></a>
 </p>
 
@@ -19,7 +19,7 @@
 📖 I have a degree in 'Training Systems' and postgraduate degree in 'Full Stack Development'
 
 
-🚀  I'm currently working with backend development on Lightbase
+🚀  I'm currently working with BackEnd Development
 
 <hr>
   
